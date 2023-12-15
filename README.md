@@ -1,5 +1,5 @@
-Hi there
-My name Kuzia
+-  Hi there
+-  My name Kuzia
 
 
 - 🌱 I’m currently learning do robots
