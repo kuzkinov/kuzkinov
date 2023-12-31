@@ -1,12 +1,8 @@
 -  Hi there
 -  My name Kuzia
-
-
 - 🌱 I’m currently learning do robots
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about 
-- 📫 How to reach me: ...
 
 
 
