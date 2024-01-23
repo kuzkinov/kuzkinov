@@ -2,7 +2,7 @@
 -  My name Kuzia
 - 🌱 I’m currently learning do robots
 - 👯 I’m looking to collaborate on ...
-
+- You can write me on [facebook](https://www.facebook.com/kuzimirov)
 
 
 <!--
